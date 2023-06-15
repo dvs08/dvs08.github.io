@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.1d0f9496.css",
+    "main.js": "/react-gh-pages/static/js/main.43d955ac.js",
+    "static/media/cryptobckg.jpeg": "/react-gh-pages/static/media/cryptobckg.fc803d4d510a76ad6f5d.jpeg",
+    "static/media/refresh.png": "/react-gh-pages/static/media/refresh.2393f92f46e326a6039f.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.1d0f9496.css.map": "/react-gh-pages/static/css/main.1d0f9496.css.map",
+    "main.43d955ac.js.map": "/react-gh-pages/static/js/main.43d955ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0f9496.css",
+    "static/js/main.43d955ac.js"
+  ]
+}
